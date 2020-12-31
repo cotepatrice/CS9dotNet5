@@ -1,0 +1,16 @@
+C:\tests\CS9\Chapitre 3\bin\Debug\net5.0\Chapitre 3.exe
+C:\tests\CS9\Chapitre 3\bin\Debug\net5.0\Chapitre 3.deps.json
+C:\tests\CS9\Chapitre 3\bin\Debug\net5.0\Chapitre 3.runtimeconfig.json
+C:\tests\CS9\Chapitre 3\bin\Debug\net5.0\Chapitre 3.runtimeconfig.dev.json
+C:\tests\CS9\Chapitre 3\bin\Debug\net5.0\Chapitre 3.dll
+C:\tests\CS9\Chapitre 3\bin\Debug\net5.0\ref\Chapitre 3.dll
+C:\tests\CS9\Chapitre 3\bin\Debug\net5.0\Chapitre 3.pdb
+C:\tests\CS9\Chapitre 3\obj\Debug\net5.0\Chapitre 3.csprojAssemblyReference.cache
+C:\tests\CS9\Chapitre 3\obj\Debug\net5.0\Chapitre 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\tests\CS9\Chapitre 3\obj\Debug\net5.0\Chapitre 3.AssemblyInfoInputs.cache
+C:\tests\CS9\Chapitre 3\obj\Debug\net5.0\Chapitre 3.AssemblyInfo.cs
+C:\tests\CS9\Chapitre 3\obj\Debug\net5.0\Chapitre 3.csproj.CoreCompileInputs.cache
+C:\tests\CS9\Chapitre 3\obj\Debug\net5.0\Chapitre 3.dll
+C:\tests\CS9\Chapitre 3\obj\Debug\net5.0\ref\Chapitre 3.dll
+C:\tests\CS9\Chapitre 3\obj\Debug\net5.0\Chapitre 3.pdb
+C:\tests\CS9\Chapitre 3\obj\Debug\net5.0\Chapitre 3.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\tests\CS9\Shared\bin\Debug\net5.0\PatternMatchingSample.deps.json
+C:\tests\CS9\Shared\bin\Debug\net5.0\PatternMatchingSample.dll
+C:\tests\CS9\Shared\bin\Debug\net5.0\ref\PatternMatchingSample.dll
+C:\tests\CS9\Shared\bin\Debug\net5.0\PatternMatchingSample.pdb
+C:\tests\CS9\Shared\obj\Debug\net5.0\PatternMatchingSample.csprojAssemblyReference.cache
+C:\tests\CS9\Shared\obj\Debug\net5.0\PatternMatchingSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\tests\CS9\Shared\obj\Debug\net5.0\PatternMatchingSample.AssemblyInfoInputs.cache
+C:\tests\CS9\Shared\obj\Debug\net5.0\PatternMatchingSample.AssemblyInfo.cs
+C:\tests\CS9\Shared\obj\Debug\net5.0\PatternMatchingSample.csproj.CoreCompileInputs.cache
+C:\tests\CS9\Shared\obj\Debug\net5.0\PatternMatchingSample.dll
+C:\tests\CS9\Shared\obj\Debug\net5.0\ref\PatternMatchingSample.dll
+C:\tests\CS9\Shared\obj\Debug\net5.0\PatternMatchingSample.pdb
