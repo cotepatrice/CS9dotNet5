@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\tests\\CS9\\Shared\\Shared.csproj": {}
+    "C:\\tests\\CS9dotNet5\\Shared\\Shared.csproj": {}
   },
   "projects": {
-    "C:\\tests\\CS9\\Shared\\Shared.csproj": {
+    "C:\\tests\\CS9dotNet5\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\tests\\CS9\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\tests\\CS9dotNet5\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\tests\\CS9\\Shared\\Shared.csproj",
+        "projectPath": "C:\\tests\\CS9dotNet5\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\cotep\\.nuget\\packages\\",
-        "outputPath": "C:\\tests\\CS9\\Shared\\obj\\",
+        "outputPath": "C:\\tests\\CS9dotNet5\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cotep\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -32,6 +32,8 @@ namespace RecordsSample
                 Wheels = 4 
             }; 
             
+            // Puisqu'on ne peut modifier les records, on peut en créer de nouvelles copies
+            // (en modifiant les propriétées voulues) avec le keyword "with"
             var repaintedCar = car with 
             { 
                 Color = "Polymetal Grey Metallic" 
@@ -39,6 +41,11 @@ namespace RecordsSample
             
             Console.WriteLine(@$"Original color was {car.Color}, new color is {repaintedCar.Color}. 
                 Repainted Wheels number is {repaintedCar.Wheels}. Repainted Brand number is {repaintedCar.Brand}");
+
+            // Positional with deconstruct
+            var oscar = new ImmutableAnimal("Oscar", "Labrador"); 
+            var (who, what) = oscar; // calls Deconstruct method 
+            Console.WriteLine( $"{ who} is a {what}.");
         }
     }
 }
