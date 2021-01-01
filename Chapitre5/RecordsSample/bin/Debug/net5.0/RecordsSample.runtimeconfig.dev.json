@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\cotep\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\cotep\\.nuget\\packages"
-    ]
-  }
-}
